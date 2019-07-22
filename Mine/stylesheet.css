@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+}
+
+body{
+    text-align: center;
+    background-color: lightblue;
+}
+.m{
+    width: 50%;
+    background-color:#0066ff;
+    text-align: center;
+    padding: 20px;
+    margin: auto;
+    height: 700px;
+}
+.board{
+    width: 70%;
+    background-color: #0066ff;
+    margin: auto;
+    margin-top: 60px;
+}
+
+.header{
+    margin: 0px;
+    padding: 30px;
+    background-color: #0047b3;
+    color: white;
+}
+
+#timer{
+    margin-right: 50px;
+}
